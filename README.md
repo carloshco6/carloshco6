@@ -8,7 +8,7 @@
 <br>
 
 ## Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,blender,ae,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,blender,ae,ps,visualstudio)](https://skillicons.dev)
 
 <br>
 
